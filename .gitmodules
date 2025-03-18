@@ -1,3 +1,6 @@
 [submodule "bashtop"]
 	path = bashtop
 	url = https://github.com/aristocratos/bashtop.git
+[submodule "far2l/far2l"]
+	path = far2l/far2l
+	url = https://github.com/elfmz/far2l.git
