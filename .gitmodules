@@ -4,3 +4,6 @@
 [submodule "far2l/far2l"]
 	path = far2l/far2l
 	url = https://github.com/elfmz/far2l.git
+[submodule "gitflow/gitflow"]
+	path = gitflow/gitflow
+	url = https://github.com/petervanderdoes/gitflow-avh.git
