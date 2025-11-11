@@ -7,3 +7,6 @@
 [submodule "gitflow/gitflow"]
 	path = gitflow/gitflow
 	url = https://github.com/petervanderdoes/gitflow-avh.git
+[submodule "fpcupdeluxe"]
+	path = fpcupdeluxe
+	url = https://github.com/Andry-Smirnov/fpcupdeluxe.git
